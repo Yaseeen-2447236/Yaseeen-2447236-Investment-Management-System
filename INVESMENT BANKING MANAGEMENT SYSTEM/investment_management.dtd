@@ -1,0 +1,26 @@
+<!ELEMENT InvestmentManagement (Investor)>
+<!ELEMENT Investor (ID, Name, DateOfBirth, Email, PhoneNumber, Address, Investment+, TotalValue)>
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT DateOfBirth (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT PhoneNumber (#PCDATA)>
+<!ATTLIST PhoneNumber type CDATA #REQUIRED>
+<!ELEMENT Address (Street, City, State, ZipCode, Country)>
+<!ELEMENT Street (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT State (#PCDATA)>
+<!ELEMENT ZipCode (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+<!ELEMENT Investment (Type, Amount, Date, InvestmentPerformance)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT Amount (#PCDATA)>
+<!ATTLIST Amount currency CDATA #REQUIRED>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT InvestmentPerformance (PerformanceDate, Value, Change)>
+<!ELEMENT PerformanceDate (#PCDATA)>
+<!ELEMENT Value (#PCDATA)>
+<!ATTLIST Value currency CDATA #REQUIRED>
+<!ELEMENT Change (#PCDATA)>
+<!ELEMENT TotalValue (#PCDATA)>
+<!ATTLIST TotalValue currency CDATA #REQUIRED>

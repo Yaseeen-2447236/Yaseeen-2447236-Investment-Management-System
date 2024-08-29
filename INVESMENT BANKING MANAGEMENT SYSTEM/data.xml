@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InvestmentManagement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                       xsi:noNamespaceSchemaLocation="investment_management.xsd">
+    <Investor>
+        <ID>12345</ID>
+        <Name>Ravi Kumar</Name>
+        <DateOfBirth>10-03-2004</DateOfBirth>
+        <Email>ravi@gmail.com</Email>
+        <PhoneNumber type="mobile">1234567890</PhoneNumber>
+        <Address>
+            <Street>123 church street</Street>
+            <City>Bangalore</City>
+            <State>Karnataka</State>
+            <ZipCode>45678</ZipCode>
+            <Country>INDIA</Country>
+        </Address>
+        <Investment>
+            <Type>Stocks</Type>
+            <Amount currency="INR">10000.00</Amount>
+            <Date>2024-08-15</Date>
+            <InvestmentPerformance>
+                <PerformanceDate>2024-08-16</PerformanceDate>
+                <Value currency="INR">10200.00</Value>
+                <Change>+2.00%</Change>
+            </InvestmentPerformance>
+        </Investment>
+        <Investment>
+            <Type>Bonds</Type>
+            <Amount currency="INR">5000.00</Amount>
+            <Date>2024-08-20</Date>
+            <InvestmentPerformance>
+                <PerformanceDate>2024-08-21</PerformanceDate>
+                <Value currency="INR">5020.00</Value>
+                <Change>+0.40%</Change>
+            </InvestmentPerformance>
+        </Investment>
+        <TotalValue currency="INR">15000.00</TotalValue>
+    </Investor>
+</InvestmentManagement>
