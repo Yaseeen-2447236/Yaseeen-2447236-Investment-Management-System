@@ -1,0 +1,56 @@
+[
+  {
+    "id": "aege",
+    "name": "Aegean",
+    "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+    "origin": "Greece",
+    "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+    "life_span": "9-12",
+    "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+  },
+  {
+    "id": "beng",
+    "name": "Bengal",
+    "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+    "origin": "United States",
+    "description": "Bengals are an active, high-energy breed. They are known for their wild appearance, with distinctive markings and a sleek coat. They are playful and enjoy climbing and exploring. Bengals are very affectionate and thrive on social interaction.",
+    "life_span": "12-16",
+    "url": "https://cdn2.thecatapi.com/images/O3btzLlsO.png"
+  },
+  {
+    "id": "abys",
+    "name": "Abyssinian",
+    "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+    "origin": "Ethiopia",
+    "description": "The Abyssinian is one of the oldest known breeds of cats. They are known for their distinctive 'ticked' coat pattern. Abyssinians are very active and playful, often displaying a lot of curiosity and intelligence.",
+    "life_span": "14-15",
+    "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+  },
+  {
+    "id": "siam",
+    "name": "Siamese",
+    "temperament": "Active, Agile, Clever, Sociable, Loving",
+    "origin": "Thailand",
+    "description": "Siamese cats are known for their sleek, slender bodies and striking blue eyes. They are very social and enjoy interacting with their owners, often following them around the house. Siamese cats are also very vocal and will let you know if they need attention.",
+    "life_span": "12-15",
+    "url": "https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg"
+  },
+  {
+    "id": "norw",
+    "name": "Norwegian Forest Cat",
+    "temperament": "Sweet, Active, Intelligent, Social",
+    "origin": "Norway",
+    "description": "The Norwegian Forest Cat is a breed that evolved naturally in the forests of Norway. They have a dense, waterproof coat and are well-adapted to cold climates. These cats are friendly, intelligent, and very adaptable to various living environments.",
+    "life_span": "14-16",
+    "url": "https://cdn2.thecatapi.com/images/SkOlPS3Fz.jpg"
+  },
+  {
+    "id": "mcoo",
+    "name": "Maine Coon",
+    "temperament": "Gentle, Loyal, Friendly, Intelligent",
+    "origin": "United States",
+    "description": "Maine Coons are one of the largest domesticated cat breeds. They are known for their friendly and gentle nature. They have a distinctive ruff along their chest and a long, bushy tail. Maine Coons are great with children and other pets.",
+    "life_span": "10-13",
+    "url": "https://cdn2.thecatapi.com/images/0_JzxBUxT.jpg"
+  }
+]
